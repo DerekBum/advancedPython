@@ -1,0 +1,19 @@
+tulchin@tulchin-HP-ProBook-440-G6:~/PycharmProjects/advancedPython/hw1/nl$ python3 nl.py artifacts/example.txt 
+     1	Dusk takes place in and around the fictitious rural town of Dusk, Pennsylvania. 
+     2	A huge network of "Lovecraftian ruins" is discovered underneath a section of farmland, which attracts the attention of the government.
+     3	Military personnel and scientists establish research labs and factories in the town in an attempt to harness the magic of the ruins.
+     4	Much of the research team soon fall victim to a series of demonic possessions and industrial disasters, which force the remnants of the team out of the town.
+     5	A large perimeter wall is built around the town, sealing it off from the outside world.
+     6	The player takes the role of a nameless treasure hunter ("Dusk Dude" or "The Intruder"), who has heard rumors that hidden riches exist within the sealed town.
+     7	The treasure hunter is apprehended by the town's denizens, brought to a secluded farmhouse, and impaled onto a meathook.
+     8	
+     9	The Foothills, the first episode, is largely set in the country outskirts around Dusk's perimeter wall.
+    10	After the protagonist escapes from the farmhouse, he travels across a variety of rural environments such as swamps, barnyards, cornfields, and sawmills.
+    11	After breaching the perimeter wall and entering the town, the protagonist uncovers an underground passageway, which ultimately leads him to an industrial zone on the outskirts of the city.
+    12	
+    13	The object of Dusk's gameplay is to reach the exit of the level, while surviving all hazards on the way.
+    14	Such hazards include hostile enemies such as robed cultists, demonic livestock, sentient scarecrows, and possessed soldiers.
+    15	The player has access to a variety of weapons, including dual-wielded sickles, dual pistols, dual single-barrel shotguns, a double-barrel "super shotgun",
+    16	an assault rifle, a hunting rifle, a magic crossbow, a mortar, a magic sword, and a weapon called the "Riveter" that shoots exploding rivets.
+    17	A unique mechanic of Dusk is the unlocked rotational-axis, allowing the player an additional degree of rotation whilst in midair, which grants the ability to perform front and back-flips.
+tulchin@tulchin-HP-ProBook-440-G6:~/PycharmProjects/advancedPython/hw1/nl$ 

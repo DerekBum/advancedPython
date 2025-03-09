@@ -1,0 +1,32 @@
+Snatchers appear to be highly mutated yet humanoid creatures.
+The entirety of its back side is ripped open, sprouting a mass of undulating writhing tentacles from its spine and rectum.
+Its chest and stomach are completely hollowed out, but when it tries to grab a prisoner a mass of tentacles spring from their abdomen to grab them.
+Their heads are mutilated, and protruding from it are multiple tentacles.
+It is larger than a Striker but slightly smaller than a Giant.
+
+Snatchers share the Striker's tendency of moving as a quadruped, but will briefly stand up on two legs when attacking.
+It has similar armour to that found on other unique enemies, and those areas of its body are resistant to damage.
+In the case of the Snatcher it will take one-fifth of the normal damage when it is shot in armoured areas.
+
+They can spawn during alarm scans, error waves, and from events triggered by performing certain other actions.
+As a special enemy, they are only scripted to spawn on a small number of alarms/events, such as completing the terminal command in ALT://R5A2's secondary
+or their introduction during the room scan of R7C1.
+
+They can not be found sleeping.
+
+The Tank is the most heavily mutated creature yet, and bears little resemblance to anything human.
+The majority of its mutations occur on its body, giving it a cone shaped, bulbous appearance.
+Unlike other enemies, it appears to have three heads which all attack individually with long flesh appendages.
+It is bigger than the Giant and has dark spikes aligned on its torso and heads, similar to the Charger.
+It is similar to the Mother in that its head and front are armored, negating damage from gunfire.
+It has multiple tumors on its back which serves as its only vulnerability. 
+
+The Tank has a lot of health, and it is only vulnerable to damage via the tumors on its back.
+The multiple orifices on its upper body allow it to target and attack several players at once with its ranged attacks.
+It can also punch players who get too close.
+
+The Tank will try to keep a short distance between itself and players and hide its backside.
+It can use its ranged attacks while moving around, but its attack takes longer to hit compared to other enemies.
+Its punch attack deals more damage than its ranged attack, and is as fast as a Charger's or Hybrid's, making it very risky should one attempt to approach it.
+
+Although the Tank usually moves very slowly, it can charge at the players, especially if they are too far away. 
