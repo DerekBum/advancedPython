@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: latex_generator_DerekBum_AP2025
+Version: 0.1
+Description-Content-Type: text/markdown
+Dynamic: description
+Dynamic: description-content-type
+
+# Latex generator
+
+This package allows user to generate LaTeX with:
+1) A table by two-dimensional table.
+2) A picture using provided file.
