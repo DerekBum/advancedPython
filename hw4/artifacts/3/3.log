@@ -1,0 +1,28 @@
+2025-04-01 14:38:23,576 -   MAIN PROCESS: message 'Hello!' [0]: SENT TO A
+2025-04-01 14:38:23,586 -      A PROCESS: message 'Hello!' [0]: EXTRACTED
+2025-04-01 14:38:23,588 -      A PROCESS: message 'hello!' [0]: SENT TO B
+2025-04-01 14:38:23,589 -      B PROCESS: message 'hello!' [0]: EXTRACTED
+2025-04-01 14:38:23,592 -      B PROCESS: message 'uryyb!' [0]: ENCODED
+2025-04-01 14:38:23,593 -      B PROCESS: message 'uryyb!' [0]: SENT TO MAIN
+2025-04-01 14:38:23,594 -   MAIN PROCESS: message 'uryyb!' [0]: RECEIVED
+2025-04-01 14:38:32,927 -   MAIN PROCESS: message 'Hello to you too!' [1]: SENT TO A
+2025-04-01 14:38:32,927 -      A PROCESS: message 'Hello to you too!' [1]: EXTRACTED
+2025-04-01 14:38:32,928 -      A PROCESS: message 'hello to you too!' [1]: SENT TO B
+2025-04-01 14:38:32,928 -      B PROCESS: message 'hello to you too!' [1]: EXTRACTED
+2025-04-01 14:38:32,928 -      B PROCESS: message 'uryyb gb lbh gbb!' [1]: ENCODED
+2025-04-01 14:38:32,928 -      B PROCESS: message 'uryyb gb lbh gbb!' [1]: SENT TO MAIN
+2025-04-01 14:38:32,929 -   MAIN PROCESS: message 'uryyb gb lbh gbb!' [1]: RECEIVED
+2025-04-01 14:38:41,157 -   MAIN PROCESS: message '123qwe!@#QWE' [2]: SENT TO A
+2025-04-01 14:38:41,158 -      A PROCESS: message '123qwe!@#QWE' [2]: EXTRACTED
+2025-04-01 14:38:41,159 -      A PROCESS: message '123qwe!@#qwe' [2]: SENT TO B
+2025-04-01 14:38:41,159 -      B PROCESS: message '123qwe!@#qwe' [2]: EXTRACTED
+2025-04-01 14:38:41,160 -      B PROCESS: message '123djr!@#djr' [2]: ENCODED
+2025-04-01 14:38:41,160 -      B PROCESS: message '123djr!@#djr' [2]: SENT TO MAIN
+2025-04-01 14:38:41,161 -   MAIN PROCESS: message '123djr!@#djr' [2]: RECEIVED
+2025-04-01 14:38:46,187 -   MAIN PROCESS: message 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' [3]: SENT TO A
+2025-04-01 14:38:46,187 -      A PROCESS: message 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' [3]: EXTRACTED
+2025-04-01 14:38:46,188 -      A PROCESS: message 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' [3]: SENT TO B
+2025-04-01 14:38:46,189 -      B PROCESS: message 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' [3]: EXTRACTED
+2025-04-01 14:38:46,189 -      B PROCESS: message 'nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn' [3]: ENCODED
+2025-04-01 14:38:46,189 -      B PROCESS: message 'nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn' [3]: SENT TO MAIN
+2025-04-01 14:38:46,190 -   MAIN PROCESS: message 'nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn' [3]: RECEIVED
